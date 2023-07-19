@@ -1,4 +1,4 @@
-# Hola!!! Soy Dafne 🇦🇷👋
+# Hola!!! Soy Dafne - Front-end Developer 🇦🇷👋
 
 ## Tecnologías:
 
